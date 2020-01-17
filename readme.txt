@@ -6,3 +6,6 @@ Git has a mutable index called stage.
 222
 
 3333
+
+
+66666
